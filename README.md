@@ -2,4 +2,8 @@
 
 Hi, I'm Matt.
 
-I'm a third-year Mechatronics Engineering student at the University of Waterloo aspiring to become a full-stack software engineer. I am currently interning as a Software Engineer at Setter.
+I'm a third-year Mechatronics Engineering student at the University of Waterloo aspiring to become a full-stack software engineer. 
+
+I'm most comfortable with a Javascript/Typescript stack — React, Node/Express, PostgreSQL, and MongoDB. I'm currently working on a project to learn full-stack development with Python using Django and Flask.
+
+Make sure to visit my [site](https://mhyeun.github.io) where I recently started writing about random stuff.
