@@ -2,8 +2,10 @@
 
 Hi, I'm Matt.
 
-I'm a third-year Mechatronics Engineering student at the University of Waterloo aspiring to become a full-stack software engineer. 
+I'm a third-year Mechatronics Engineering student at the University of Waterloo aspiring to become a full-stack software engineer. I'm most comfortable with a Javascript/Typescript stack — React, Node/Express, PostgreSQL, and MongoDB.
 
-I'm most comfortable with a Javascript/Typescript stack — React, Node/Express, PostgreSQL, and MongoDB. I'm currently working on a project to learn full-stack development with Python using Django and Flask.
+I've recently learned some Django and Flask, too.
 
-Make sure to visit my [site](https://mhyeun.github.io) where I recently started writing about random stuff.
+I finished and deployed a "for-fun" Django application where users can "emojify" tweets from anyone with a valid Twitter @. This app uses a lightweight Flask API that I developed and deployed with documentation on the [repo](https://github.com/mhyeun/twitter-emojify-api). You can check out the site [here](https://emoji-bot.com) and try it yourself!
+
+Make sure to also visit my [site](https://mhyeun.github.io) where I recently started writing about random stuff.
